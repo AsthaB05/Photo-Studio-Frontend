@@ -9,3 +9,9 @@ Features:
 4.Font Awesome icons integration
 5.Google Fonts (Poppins & Roboto)
 6.Simple and beginner-friendly project
+
+Technologies Used:
+HTML5
+CSS3
+Font Awesome
+Google Fonts
